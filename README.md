@@ -6,4 +6,3 @@ taruh di folder keys masing-masing, sudah siap saling kirim/terima pesan terenkr
 
 # 🔒 paranoid-level
 Multi-enkripsi kelas kuantum tech
-ini jebol kriptografi jebol
